@@ -1,4 +1,4 @@
-<yml_catalog date="2026-10-20 15:21">
+<yml_catalog date="2026-10-21 09:45">
 <offers>
    <offer id="BLS0753" available="true">
     <price>49</price>
@@ -4902,7 +4902,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL8405" available="true">
+   <offer id="BL8405" available="false">
     <price>2769</price>
     <category code="9466">Вібратори</category>
     <attribute_set code="9466">Вібратори</attribute_set>
@@ -18517,7 +18517,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL5583" available="false">
+   <offer id="BL5583" available="true">
     <price>1699</price>
     <category code="9480">Фалоімітатори</category>
     <attribute_set code="9480">Фалоімітатори</attribute_set>
@@ -20989,7 +20989,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS2148" available="false">
+   <offer id="BLS2148" available="true">
     <price>5709</price>
     <category code="9466">Вібратори</category>
     <attribute_set code="9466">Вібратори</attribute_set>
@@ -23469,7 +23469,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL4532" available="true">
+   <offer id="BL4532" available="false">
     <price>2669</price>
     <category code="9480">Фалоімітатори</category>
     <attribute_set code="9480">Фалоімітатори</attribute_set>
@@ -30208,7 +30208,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1458" available="false">
+   <offer id="BL1458" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30220,7 +30220,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1456" available="false">
+   <offer id="BL1456" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30244,7 +30244,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1455" available="false">
+   <offer id="BL1455" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30256,7 +30256,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1681" available="false">
+   <offer id="BL1681" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30316,7 +30316,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1442" available="false">
+   <offer id="BL1442" available="true">
     <price>1019</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30676,7 +30676,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1900" available="true">
+   <offer id="BL1900" available="false">
     <price>319</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30892,7 +30892,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL9337" available="false">
+   <offer id="BL9337" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30904,7 +30904,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL9338" available="false">
+   <offer id="BL9338" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30916,7 +30916,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL9336" available="false">
+   <offer id="BL9336" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30964,7 +30964,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1682" available="false">
+   <offer id="BL1682" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -30988,7 +30988,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1482" available="false">
+   <offer id="BL1482" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31000,7 +31000,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1483" available="false">
+   <offer id="BL1483" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31276,7 +31276,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1453" available="false">
+   <offer id="BL1453" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31684,7 +31684,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1785" available="false">
+   <offer id="BL1785" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31696,7 +31696,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1449" available="false">
+   <offer id="BL1449" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31708,7 +31708,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1664" available="false">
+   <offer id="BL1664" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -31876,7 +31876,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS2409" available="false">
+   <offer id="BLS2409" available="true">
     <price>839</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32092,7 +32092,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1686" available="false">
+   <offer id="BL1686" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32116,7 +32116,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1492" available="false">
+   <offer id="BL1492" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32128,7 +32128,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1685" available="false">
+   <offer id="BL1685" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32176,7 +32176,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1462" available="false">
+   <offer id="BL1462" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32200,7 +32200,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL3504" available="false">
+   <offer id="BL3504" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32476,7 +32476,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1777" available="false">
+   <offer id="BL1777" available="true">
     <price>859</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32488,7 +32488,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1476" available="false">
+   <offer id="BL1476" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32500,7 +32500,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1671" available="false">
+   <offer id="BL1671" available="true">
     <price>859</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32512,7 +32512,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1468" available="false">
+   <offer id="BL1468" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32524,7 +32524,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1672" available="false">
+   <offer id="BL1672" available="true">
     <price>859</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32536,7 +32536,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1469" available="false">
+   <offer id="BL1469" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32572,7 +32572,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1472" available="false">
+   <offer id="BL1472" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32680,7 +32680,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS0721" available="false">
+   <offer id="BLS0721" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32692,7 +32692,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1448" available="false">
+   <offer id="BL1448" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32704,7 +32704,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1678" available="false">
+   <offer id="BL1678" available="true">
     <price>1179</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32716,7 +32716,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1446" available="false">
+   <offer id="BL1446" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32728,7 +32728,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1692" available="false">
+   <offer id="BL1692" available="true">
     <price>1769</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -32740,7 +32740,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1447" available="false">
+   <offer id="BL1447" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -33868,7 +33868,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL6776" available="false">
+   <offer id="BL6776" available="true">
     <price>529</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -33916,7 +33916,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL6158" available="false">
+   <offer id="BL6158" available="true">
     <price>529</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -33976,7 +33976,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL2618" available="false">
+   <offer id="BL2618" available="true">
     <price>579</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36137,7 +36137,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL4487" available="false">
+   <offer id="BL4487" available="true">
     <price>629</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36149,7 +36149,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL4488" available="false">
+   <offer id="BL4488" available="true">
     <price>949</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36497,7 +36497,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL2449" available="false">
+   <offer id="BL2449" available="true">
     <price>909</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36533,7 +36533,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL2839" available="false">
+   <offer id="BL2839" available="true">
     <price>1049</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36821,7 +36821,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1693" available="false">
+   <offer id="BL1693" available="true">
     <price>789</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36833,7 +36833,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1450" available="false">
+   <offer id="BL1450" available="true">
     <price>389</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36845,7 +36845,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1680" available="false">
+   <offer id="BL1680" available="true">
     <price>519</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36941,7 +36941,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1793" available="false">
+   <offer id="BL1793" available="true">
     <price>1019</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
