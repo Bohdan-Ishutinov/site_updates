@@ -1,4 +1,4 @@
-<yml_catalog date="2026-10-29 19:53">
+<yml_catalog date="2026-10-30 15:59">
 <offers>
    <offer id="BLS0753" available="true">
     <price>49</price>
@@ -160,7 +160,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS1259" available="true">
+   <offer id="BLS1259" available="false">
     <price>139</price>
     <category code="3275">Презервативи</category>
     <attribute_set code="3275">Презервативи</attribute_set>
@@ -16252,7 +16252,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL3042" available="false">
+   <offer id="BL3042" available="true">
     <price>2569</price>
     <category code="9478">Вагінальні кульки та тренажери</category>
     <attribute_set code="9478">Вагінальні кульки та тренажери</attribute_set>
@@ -37670,7 +37670,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS2189" available="true">
+   <offer id="BLS2189" available="false">
     <price>29</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
