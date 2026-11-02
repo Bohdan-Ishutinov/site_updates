@@ -1,4 +1,4 @@
-<yml_catalog date="2026-11-01 09:56">
+<yml_catalog date="2026-11-02 08:50">
 <offers>
    <offer id="BLS0753" available="true">
     <price>49</price>
@@ -1420,7 +1420,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS2393" available="true">
+   <offer id="BLS2393" available="false">
     <price>1599</price>
     <category code="3275">Презервативи</category>
     <attribute_set code="3275">Презервативи</attribute_set>
@@ -30192,6 +30192,102 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS4737" available="true">
+    <price>4899</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/3/47096262618073_+e51cb6d9bb.jpg</picture>
+    <vendor>Lovense</vendor>
+    <name lang="ua"><![CDATA[Кліторальний смарт-стимулятор 2-в-1 Lovense Fizz із ефектом всмоктування та теппінгом]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5012" available="true">
+    <price>3999</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/14/89993121235905_+f201545ed7.jpg</picture>
+    <vendor>MyMagicWand</vendor>
+    <name lang="ua"><![CDATA[Вібромасажер MyMagicWand - Wand Massger Small Black]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5013" available="true">
+    <price>5199</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/15/54480764824780_+697de17eac.jpg</picture>
+    <vendor>MyMagicWand</vendor>
+    <name lang="ua"><![CDATA[Вібромасажер MyMagicWand - Wand Massger Medium Black]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5014" available="true">
+    <price>6799</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/16/51994030028177_+d42b36a9b1.jpg</picture>
+    <vendor>MyMagicWand</vendor>
+    <name lang="ua"><![CDATA[Вібромасажер MyMagicWand - Wand Massger Large Black]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5015" available="true">
+    <price>6799</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/17/11923401026340_+355967f8ba.jpg</picture>
+    <vendor>MyMagicWand</vendor>
+    <name lang="ua"><![CDATA[Вібромасажер MyMagicWand - Wand Massger Dynamite Grey]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5016" available="true">
+    <price>6799</price>
+    <category code="9466">Вібратори</category>
+    <attribute_set code="9466">Вібратори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/18/99462221668647_+bd01d3db3d.jpg</picture>
+    <vendor>MyMagicWand</vendor>
+    <name lang="ua"><![CDATA[Вібромасажер MyMagicWand - Wand Massger Electric Pink]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5024" available="true">
+    <price>2339</price>
+    <category code="9480">Фалоімітатори</category>
+    <attribute_set code="9480">Фалоімітатори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/25/84738329162893_+897291ea5f.jpg</picture>
+    <vendor>Gildo</vendor>
+    <name lang="ua"><![CDATA[Скляний фалоімітатор в формі щупальця Gildo No. 34 Tentacle Glass Dildo]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5026" available="true">
+    <price>1399</price>
+    <category code="9480">Фалоімітатори</category>
+    <attribute_set code="9480">Фалоімітатори</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/27/21851771207851_+e7e25bf81e.jpg</picture>
+    <vendor>Gildo</vendor>
+    <name lang="ua"><![CDATA[Скляний фалоімітатор Gildo Textured Glass Dildo No. 36]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
    <offer id="BL3986" available="false">
     <price>759</price>
     <category code="7715">Інтимні змазки</category>
@@ -36062,7 +36158,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1434" available="true">
+   <offer id="BL1434" available="false">
     <price>1529</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -36242,7 +36338,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL1350" available="true">
+   <offer id="BL1350" available="false">
     <price>829</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -39225,6 +39321,54 @@
     <vendor>Friday Bae</vendor>
     <name lang="ua"><![CDATA[Змазка на водній основі Friday Bae TASTE Red Fruits, 50 мл]]></name>
     <description lang="ua"><![CDATA[Склад: Aqua, Glycerin, Propylene Glycol, Sorbitol, Xanthan Gum, Aroma, Sodium Benzoate, Potassium Sorbate, Sodium Saccharin, Citric Acid Склад продукту на 99,40 % складається з інгредієнтів природного походження відповідно до стандарту ISO 16128, за винятком води.]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5028" available="true">
+    <price>1179</price>
+    <category code="7715">Інтимні змазки</category>
+    <attribute_set code="7715">Інтимні змазки</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/29/61300570400820_+e07f596739.jpg</picture>
+    <vendor>BUTTR</vendor>
+    <name lang="ua"><![CDATA[Змазка для фістингу порошкова BUTTR Powdered Lubricant]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5029" available="true">
+    <price>929</price>
+    <category code="7715">Інтимні змазки</category>
+    <attribute_set code="7715">Інтимні змазки</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/30/42143783578663_+4789f62b66.jpg</picture>
+    <vendor>BUTTR</vendor>
+    <name lang="ua"><![CDATA[Розслаблювальний анальний спрей BUTTR Relaxing Anal Spray]]></name>
+    <description lang="ua"><![CDATA[]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5144" available="true">
+    <price>629</price>
+    <category code="7715">Інтимні змазки</category>
+    <attribute_set code="7715">Інтимні змазки</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/40/30473037644168_+ff10f6a6ef.jpg</picture>
+    <vendor>Sensuva</vendor>
+    <name lang="ua"><![CDATA[Змазка на водній основі Sensuva Natural Water-Based Pineapple без гліцерину та парабенів]]></name>
+    <description lang="ua"><![CDATA[Тим, хто цінує природність відчуттів під час інтимної близькості і максимум комфорту, рекомендуємо придбати лубрикант на водній основі Sensuva - Natural Water-Based Pineapple. Прозорий, природної консистенції, цей лубрикант забезпечить легке ковзання та приємне зволоження слизової оболонки і шкіри. Зі свіжим ароматом ананаса, він не липне і легко змивається. Є дозатор! Лубрикант на водній основі — те, що обов'язково повинно бути в кожного! Адже з ним будь-яка близькість буде ще більш приємною і комфортною, а вже при використанні секс-іграшок без змащення на водній основі точно не обійтися. Легка формула водної змазки від Sensuva забезпечує максимально природні відчуття, адже сам лубрикант схожий на натуральну змазку. Переваги даного лубриканта:  природні відчуття, як при активному виробленню натуральної змазки; приємна не липка текстура, прозорість і ненав'язливий аромат; довгий легке ковзання для максимального комфорту; змазку pH-збалансована і не завдає шкоди ніжним зонам, надаючи зволожуючий ефект; легко змивається водою; не містить гліцерин і парабени; у всіх розфасовках є мега зручний помповий дозатор; підходить для використання з виробами з латексу і силікону. зроблено в США.  Ingredients: Water, Hydroxyethyl Cellulose, Propanediol, Potassium Sorbate, Citric Acid, Gluconolactone, Sodium Benzoate, Natural Flavors]]></description>
+   </offer>
+    <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+   <offer id="BLS5145" available="true">
+    <price>629</price>
+    <category code="7715">Інтимні змазки</category>
+    <attribute_set code="7715">Інтимні змазки</attribute_set>
+
+    <picture>https://bunnylove.com.ua/content/images/41/94985860247292_+d649565418.jpg</picture>
+    <vendor>Sensuva</vendor>
+    <name lang="ua"><![CDATA[Змазка на водній основі Sensuva Jelly Water-Based , дуже густа, підходить для аналу]]></name>
+    <description lang="ua"><![CDATA[Пропонуємо купити змазку на водній основі Sensuva Jelly Natural Water Based Personal Lubricant. Це високоякісний, надслизький лубрикант із дуже густою консистенцією, схожою на желе. Завдяки цьому змазка працює довше за звичайні лубриканти, не розтікається та ідеально підходить як для вагінального, так і для анального проникнення і, звичайно, сумісна з будь-якими іграшками. Продумана формула не містить гліцерину, глютену та парабенів. Сертифікована FDA 510(k), легко змивається теплою водою та не залишає липкої плівки. Змазка на водній основі Sensuva Jelly Natural Water Based Personal Lubricant — це справжня знахідка для тих, хто хоче отримати всі переваги і силіконової, і водної змазки. Цей лубрикант особливо густий та щільний, водночас сумісний із будь-якими іграшками, не липкий та легко змивається водою. Характеристики змазки на водній основі Sensuva Jelly Natural Water Based Personal Lubricant:   гелеподібна консистенція: таке «желе» не розтікається, рівним шаром покриває член або іграшку та забезпечує особливо довготривале ковзання;   безпечний склад: не містить глютену, гліцерину та парабенів;   ідеальна для анального сексу завдяки особливій густій текстурі — Hydroxyethyl Cellulose створює щільний, стійкий шар для комфортного проникнення;   нейтральний, злегка солодкуватий смак завдяки екстракту стевії (Stevia Rebaudiana) у складі — легка солодкість без зайвих калорій!   оптимальний pH-баланс: Citric Acid підтримує оптимальний рівень кислотності для інтимних зон;   не липне та не залишає плям;   сумісна з іграшками з будь-яких матеріалів (силікон, TPE, скло, метал, пластик тощо);   легко змивається теплою водою з тіла та іграшок;   зручний дозатор для економічного та гігієнічного використання;   сертифікована FDA 510(k) — безпечність для контакту зі шкірою та слизовими, підтверджена Управлінням із санітарного нагляду за якістю харчових продуктів та медикаментів США.   Змазка на водній основі Sensuva Jelly Water-Based — це універсальний та надійний лубрикант для будь-якого типу задоволення! Анальне проникнення, класичний вагінальний секс, оральні пестощі — ця змазка стане в пригоді в будь-якому випадку. Гелеподібна консистенція дарує довготривале ковзання, а чиста, гіпоалергенна формула без зайвих добавок гарантує комфорт та безпечність. Ідеальний вибір для тих, хто цінує натуральність, ефективність та простоту використання!   Склад: Water, Hydroxyethyl Cellulose, Propanediol, Potassium Sorbate, Gluconolactone, Sodium Benzoate, Stevia Rebaudiana, Natural Flavors, Citric Acid.]]></description>
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
