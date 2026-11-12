@@ -1,4 +1,4 @@
-<yml_catalog date="2026-11-11 22:12">
+<yml_catalog date="2026-11-12 10:38">
 <offers>
    <offer id="BL3986" available="false">
     <price>759</price>
@@ -4502,7 +4502,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="PJ13340" available="true">
+   <offer id="PJ13340" available="false">
     <price>739</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -7394,7 +7394,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL5947" available="true">
+   <offer id="BL5947" available="false">
     <price>29</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -8470,7 +8470,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS03959" available="true">
+   <offer id="BLS03959" available="false">
     <price>39</price>
     <category code="7715">Інтимні змазки</category>
     <attribute_set code="7715">Інтимні змазки</attribute_set>
@@ -12060,7 +12060,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL3621" available="true">
+   <offer id="BL3621" available="false">
     <price>2199</price>
     <category code="9466">Вібратори</category>
     <attribute_set code="9466">Вібратори</attribute_set>
@@ -14964,7 +14964,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BLS0559" available="true">
+   <offer id="BLS0559" available="false">
     <price>2219</price>
     <category code="9466">Вібратори</category>
     <attribute_set code="9466">Вібратори</attribute_set>
@@ -15216,7 +15216,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="AD11073" available="true">
+   <offer id="AD11073" available="false">
     <price>1739</price>
     <category code="9466">Вібратори</category>
     <attribute_set code="9466">Вібратори</attribute_set>
@@ -27717,7 +27717,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL3497" available="true">
+   <offer id="BL3497" available="false">
     <price>2349</price>
     <category code="9480">Фалоімітатори</category>
     <attribute_set code="9480">Фалоімітатори</attribute_set>
@@ -34422,7 +34422,7 @@
    </offer>
     <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-   <offer id="BL3577" available="true">
+   <offer id="BL3577" available="false">
     <price>469</price>
     <category code="9478">Вагінальні кульки та тренажери</category>
     <attribute_set code="9478">Вагінальні кульки та тренажери</attribute_set>
